@@ -18,10 +18,11 @@ While this project is for *culturally appropriate information*, contributions ar
 For those new to Open Source, check out these resources to get you comfortable with Git/Github
 - [Writing on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 - [GitHub Learning Lab](https://lab.github.com/)
-Simply create a folder in the [applicants folder](https://github.com/Mboalab/MaternalHub/tree/main/May-August%202024%20applicants).
-Name it with your name (Exactly as it is on the [Outreachy](https://www.outreachy.org/) platform)
-This folder will contain all your tasks submissions. labell each submission correctly,
-Head over to [tasks](https://github.com/Mboalab/MaternalHub/tree/main/Tasks), and start contributing in a chronological order (Task 1 must be completed before task 2)
+  Simply create a folder in the [applicants folder](https://github.com/Mboalab/MaternalHub/tree/main/May-August%202024%20applicants). 
+
+Name it with your name (Exactly as it is on the [Outreachy](https://www.outreachy.org/) platform)  
+This folder will contain all your tasks submissions. labell each submission correctly,  
+Head over to [tasks](https://github.com/Mboalab/MaternalHub/tree/main/Tasks), and start contributing in a chronological order (Task 1 must be completed before task 2)    
 While contributing, keep in mind the community norms, Joim the official chat forum, and get to the mentor incharge for any worries.
 
 ## Additional Information:  
