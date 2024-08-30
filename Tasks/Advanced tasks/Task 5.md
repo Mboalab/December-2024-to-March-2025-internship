@@ -1,4 +1,4 @@
-# Task 1: Designing a Logo for the Project
+# Task 1: Designing a brand for the Project
 
 ## Objective: 
 The brand of a project is paramount to deliver the message about its value and goals.
@@ -18,7 +18,8 @@ Participants are welcome to use already mastered software and tools and are enco
 
 * Collect relevant and contextualised information about the project to enalble the design of a Logo;
 * Design and propose one or more logo using preferd design software and tools.
+* Document
 
 ## Attributed Mentor:
 
-Attributed mentor to get in touch with for this task is **Stephane Fadanka**
+Attributed mentor to get in touch with for this task is **Petra Ukeh**
