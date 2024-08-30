@@ -1,33 +1,23 @@
 # Task 1: Introduce yourself
 
 ## Objective:  
-
-Contributing to open source can be intimidating and confusing depending on the project you’re working on.
-However, as evidenced by how widespread open source is, there are a lot of opportunities to break into it and thrive even if you’re new. 
-
-Open source activities refers to work, project or tasks made available to the public to view, 
-use, modify, and distribute under a license. It’s usually developed and maintained collaboratively by a community of its users. 
-
-Although the main point of  open source projects is to create valuable and accessible open source resources and tools, 
-individual contributors can get plenty of personal benefit from contributing to them. By helping in the design or maintainance of developped resource enable contributors to hone thier technical skills. Work experience in an open source project is often a proof of your skills and an asset when applying for a Job. 
-
-By collaborating with others on open source you use, you get to become part of a 
-community where you can practice your soft skills like communication, giving and receiving feedback, 
-emotional intelligence, etc. Communities also introduce participants to tons of people and potential network,
-providing opening to worthwhile opportunities.
+This task intends to encourage an environment that is inclusive and cooperative amongst folks in the community. 
+Through self-introduction and getting to know yourselves, you can form relationships, exchange ideas, and create a strong sense of belonging. Throughout the internship program, this introduction will also provide the groundwork for productive teamwork and collaboration
 
 ## Tools and Skills: 
-Open source contribution often require using an open source platform or Learning a programming language. 
-Contribution to our project will rely a lot on the use of GitHub and through this task, participants are therefore encoraged to acquire basic knowledge on how to use the platform, especially coding on Markdown.
+Communication and social media skills are needed to complete this tasks such as
+- LinkedIn
+- Github
+- Twitter
+- Personal blog 
+etc
 
-GitHub is a code hosting platform for collaboration using the Git Version Control System. In layman’s term, it is the place where you keep all your projects and multiple people can work together on those projects.
-
-Good resources to get started with GitHub:
-- [Writing on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+Good resources to get started with introducing yourself include but not limited to:
+- [Social Media 101](https://interruptmedia.com/social-media-101-the-ultimate-guide-to-growing-your-business-with-social-media-marketing/)
 - [GitHub Learning Lab](https://lab.github.com/)
 
-_Note that you do not need to be a master in VCS/Git/GitHub to start contributing. 
-Once you are comfortable with the basics, you can start contributing to open-source._
+_Note that you do not have to be a pro, to be able to create impact. 
+Once you are comfortable with the basics, you can start contributing to Spen-source._
 
 ## Main activities to complete: 
 - Introduction yourself, taking into consideration
