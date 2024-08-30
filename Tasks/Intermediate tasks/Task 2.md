@@ -1,27 +1,11 @@
 # Task 2: Data exploration and preprocessing
 ## Objective:  
+Accurate and trustworthy models are built on a foundation of well-organized and clean data. Interns will increase the quality of their analysis and avoid mistakes by seeing and fixing data anomalies, missing values, and inconsistencies. 
+Moreover, normalization and feature engineering assist in transforming the data into a format that is appropriate for machine learning algorithms.
 
-Contributing to open source can be intimidating and confusing depending on the project you’re working on.
-However, as evidenced by how widespread open source is, there are a lot of opportunities to break into it and thrive even if you’re new. 
+Interns will use a variety of skills to complete this assignment. They must possess a thorough understanding of feature engineering, data cleaning, missing value handling, and other preprocessing methods as well as data exploration. Understanding of visualization tools will be crucial for identifying trends and patterns within the data. 
 
-Open source activities refers to work, project or tasks made available to the public to view, 
-use, modify, and distribute under a license. It’s usually developed and maintained collaboratively by a community of its users. 
-
-Although the main point of  open source projects is to create valuable and accessible open source resources and tools, 
-individual contributors can get plenty of personal benefit from contributing to them. By helping in the design or maintainance of developped resource enable contributors to hone thier technical skills. Work experience in an open source project is often a proof of your skills and an asset when applying for a Job. 
-
-By collaborating with others on open source you use, you get to become part of a 
-community where you can practice your soft skills like communication, giving and receiving feedback, 
-emotional intelligence, etc. Communities also introduce participants to tons of people and potential network,
-providing opening to worthwhile opportunities.
-
-## Tools and Skills: 
-Open source contribution often require using an open source platform or Learning a programming language. 
-Contribution to our project will rely a lot on the use of GitHub and through this task, participants are therefore encoraged to acquire basic knowledge on how to use the platform, especially coding on Markdown.
-
-GitHub is a code hosting platform for collaboration using the Git Version Control System. In layman’s term, it is the place where you keep all your projects and multiple people can work together on those projects.
-
-Good resources to get started with GitHub:
+Good resources to get started with:
 - [Getting Started with python environments](https://medium.com/analytics-vidhya/getting-started-with-python-anaconda-google-colab-and-virtual-environments-1ce8fc3286f9)
 
 _Note that you do not need to be a master in VCS/Git/GitHub to start contributing. 
