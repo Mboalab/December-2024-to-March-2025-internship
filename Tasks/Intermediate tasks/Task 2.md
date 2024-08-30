@@ -1,7 +1,4 @@
-#Data exploration and preprocessing
-
-# Task 1: Introduce yourself
-
+# Task 2: Data exploration and preprocessing
 ## Objective:  
 
 Contributing to open source can be intimidating and confusing depending on the project you’re working on.
@@ -25,25 +22,22 @@ Contribution to our project will rely a lot on the use of GitHub and through thi
 GitHub is a code hosting platform for collaboration using the Git Version Control System. In layman’s term, it is the place where you keep all your projects and multiple people can work together on those projects.
 
 Good resources to get started with GitHub:
-- [Writing on GitHub](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
-- [GitHub Learning Lab](https://lab.github.com/)
+- [Getting Started with python environments](https://medium.com/analytics-vidhya/getting-started-with-python-anaconda-google-colab-and-virtual-environments-1ce8fc3286f9)
 
 _Note that you do not need to be a master in VCS/Git/GitHub to start contributing. 
 Once you are comfortable with the basics, you can start contributing to open-source._
 
 ## Main activities to complete: 
-- Introduction yourself, taking into consideration
-  1. Your name,
-  2. Pronouns,
-  3. Skills,
-  4. Links to social media  and
-  5. Past relevant experience.
-- Say something informal about yourself. Could be a favorite book, a favorite movie or music, or celebrity.
+- Examine the information gathered about jobs, scholarships, and internships.
+- Find and fix any data anomalies, missing values, or inconsistencies.
+- Include feature engineering and normalization in your cleaning and preparation of the data for usage in AI models.
+- Examine the data and look for trends by using visualization tools.
+- Document your task 1, include your notebook
 
 ## Adressed to:
->**This task is particularly adressed to Newcomers and all applicants desiring to get started with open-Source contribution and practices as well as everyone willing to contribute to this project and getting to know each other.**
+>**This task is particularly adressed to Newcomers and all applicants desiring to grasp Machine learning and Artificial Intelligence as well as everyone willing to contribute to this project and getting to know each other.**
 
 ## Attributed Mentor:
-Attributed mentor to get in touch with for this task is **Jafsia Elisee**
+Attributed mentor to get in touch with for this task is **Petra Ukeh**
 
 
