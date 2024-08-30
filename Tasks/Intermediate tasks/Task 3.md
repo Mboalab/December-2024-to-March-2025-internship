@@ -1,6 +1,4 @@
-AI Model development
-
-# Task 1: Introduce yourself
+# Task 3: AI Model development
 
 ## Objective:  
 
