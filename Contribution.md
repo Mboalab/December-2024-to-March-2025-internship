@@ -32,3 +32,4 @@ to their own understanding. Mentors will always be there to guide and frame rece
 
 ## Guidelines
 Do not make any changes to the original files. Make changes to the Applicant's folder only, where you save all your tasks.
+Contributing to tasks is progressive, From task 0 to task 4
